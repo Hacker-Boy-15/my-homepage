@@ -5,7 +5,6 @@
   "dependencies": {
   "react": "^18.0.0",
   "react-dom": "^18.0.0",
-  // Other dependencies
 },
   "engines": {
   "node": ">=14.0.0",
