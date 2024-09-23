@@ -1,7 +1,9 @@
+// src/HomePage.js
 
-import './App.css';
+import React from 'react';
+import './HomePage.css'; // We'll add some basic styling
 
-function App() {
+const HomePage = () => {
   return (
     <div className="homepage">
       <header className="header">
@@ -33,6 +35,6 @@ function App() {
       </footer>
     </div>
   );
-}
+};
 
-export default App;
+export default HomePage;
